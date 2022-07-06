@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301474494498",
+    "project_id": "mediminder-e36ad",
+    "storage_bucket": "mediminder-e36ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301474494498:android:66e4f8c2b199d6ed89f27b",
+        "android_client_info": {
+          "package_name": "com.mediminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301474494498-6ea1cqbkpujslsuddi2qs7eqfiq6oquu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCikBIYx1TdLI17jvMXtf9JtE6FtRfy8LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301474494498-6ea1cqbkpujslsuddi2qs7eqfiq6oquu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
